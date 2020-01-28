@@ -1,0 +1,12 @@
+<html>
+  <head>
+     <title>lab1</title>
+  </head>
+       <h1 align="center">Quote of the day</h1>
+  <body bgcolor="pink">
+       <p><b><i>it's only after you have stepped outside your<br>comfort zone that you begin,grow and transform
+       </p></b></i>
+       <p align="right">Be<strike>negative</strike>positive
+       <p align="right"><big>Live</big><small>life</small>
+  </body>
+</html>
