@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>HTML frames</title>
+</head>
+<frameset rows="20%,20%,20%" cols="20%,20%">
+<frame name="top" src="Acti1.html"/>
+<frame name="main" src="acti4.html"/>
+<frame name="bottom" src="Act3.html"/>
+<noframes>
+<frame name="top" src="prac3.html"/>
+<frame name="main" src="prac1.html"/>
+<body>your browser doesnt support frames</body>
+</noframes>
+</frameset>
+</html>
+
