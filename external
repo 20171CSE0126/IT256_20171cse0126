@@ -1,0 +1,9 @@
+<html>
+<head>
+<link rel="stylesheet" type=text/css href="mystylee.css">
+</head>
+<body>
+<p>hello</p>
+<h1>should be in blue</h1>
+</body>
+</html>
